@@ -107,43 +107,43 @@ They leverage the already existing expertise, capabilities, processes, and "trad
 
 ## Addendum No.1: References/Citations
 
-American Cancer Society (n.d.). Key Statistics for Colorectal Cancer. Cancer. Retrieved August 4, 2024, from https://www.cancer.org/cancer/types/colon-rectal-cancer/about/key-statistics.html
+American Cancer Society (n.d.). *Key Statistics for Colorectal Cancer*. Cancer. Retrieved August 4, 2024, from https://www.cancer.org/cancer/types/colon-rectal-cancer/about/key-statistics.html
 
-Brown, K.V. (2023, May 14). Are Cancer Blood Tests Worth It. Bloomberg. Retrieved August 3, 2024, from https://www.bloomberg.com/news/newsletters/2023-05-14/are-early-cancer-detection-tests-like-grail-s-galleri-worth-the-cost 
+Brown, K.V. (2023, May 14). *Are Cancer Blood Tests Worth It*. Bloomberg. Retrieved August 3, 2024, from https://www.bloomberg.com/news/newsletters/2023-05-14/are-early-cancer-detection-tests-like-grail-s-galleri-worth-the-cost 
 
-Chintalapoodi, C. (2023, November 14). Revolutionizing Industries: An Inside Look at 10 Cutting-Edge Startups and Their IP Trends. Chip Law Group. Retrieved August 5, 2024, from https://www.chiplawgroup.com/revolutionizing-industries-an-inside-look-at-10-cutting-edge-startups-and-their-ip-trends/ 
+Chintalapoodi, C. (2023, November 14). *Revolutionizing Industries: An Inside Look at 10 Cutting-Edge Startups and Their IP Trends*. Chip Law Group. Retrieved August 5, 2024, from https://www.chiplawgroup.com/revolutionizing-industries-an-inside-look-at-10-cutting-edge-startups-and-their-ip-trends/ 
 
-Emily. (2024, August 6). Freenome Layoffs 2024: Impact on Employees and the Company. Talk of Business. Retrieved August 3, 2024, from https://talkofbusiness.com/freenome-layoffs/ 
+Emily. (2024, August 6). *Freenome Layoffs 2024: Impact on Employees and the Company*. Talk of Business. Retrieved August 3, 2024, from https://talkofbusiness.com/freenome-layoffs/ 
 
-Farr, C. (2017, July 24). These start-ups are racing to help doctors detect cancer early with a simple blood test. CNBC. Retrieved August 5, 2024, from https://www.cnbc.com/2020/02/01/detecting-cancer-through-liquid-biopsies-freenome-grail-thrive.html
+Farr, C. (2017, July 24). *These start-ups are racing to help doctors detect cancer early with a simple blood test*. CNBC. Retrieved August 5, 2024, from https://www.cnbc.com/2020/02/01/detecting-cancer-through-liquid-biopsies-freenome-grail-thrive.html
 
-Farr, C. (2020, February 3). Google’s parent company invested in a hot cancer-testing start-up and built it a dedicated lab. CNBC. Retrieved August 4, 2024, from https://www.cnbc.com/2017/07/24/alphabet-verily-invests-in-freenome-builds-lab-on-google-campus.html
+Farr, C. (2020, February 3). *Google’s parent company invested in a hot cancer-testing start-up and built it a dedicated lab*. CNBC. Retrieved August 4, 2024, from https://www.cnbc.com/2017/07/24/alphabet-verily-invests-in-freenome-builds-lab-on-google-campus.html
 
-Freenome. (n.d.). Our Science. Retrieved August 3, 2024, from https://www.freenome.com/our-science/ 
+Freenome. (n.d.). *Our Science*. Retrieved August 3, 2024, from https://www.freenome.com/our-science/ 
 
-Freenome (2024, April 2). Freenome Announces Topline Results for PREEMPT CRC® to Validate the First Version of its Blood-Based Test for the Early Detection of Colorectal Cancer. Retrieved August 3rd, 2024, from https://www.freenome.com/newsroom/freenome-announces-topline-results-for-preempt-crc-to-validate-the-first-version-of-its-blood-based-test-for-the-early-detection-of-colorectal-cancer/ 
+Freenome (2024, April 2). *Freenome Announces Topline Results for PREEMPT CRC® to Validate the First Version of its Blood-Based Test for the Early Detection of Colorectal Cancer.* Retrieved August 3rd, 2024, from https://www.freenome.com/newsroom/freenome-announces-topline-results-for-preempt-crc-to-validate-the-first-version-of-its-blood-based-test-for-the-early-detection-of-colorectal-cancer/ 
 
-Gaitlin, A. (2024, April 2). Exact Sciences, A Cathie Wood Stock, Surges As Rival Colon Cancer Test Pales. Investors. Retrieved August 3, 2024, from https://www.investors.com/news/technology/exact-sciences-stock-cologuard-freenome-colon-cancer-detection/ 
+Gaitlin, A. (2024, April 2). *Exact Sciences, A Cathie Wood Stock, Surges As Rival Colon Cancer Test Pales*. Investors. Retrieved August 3, 2024, from https://www.investors.com/news/technology/exact-sciences-stock-cologuard-freenome-colon-cancer-detection/ 
 
-Google Cloud. (2023, Feb 22). How Freenome is building the next generation of early cancer detection technology with Google Cloud. Retrieved August 3, 2024, from https://cloud.google.com/blog/topics/startups/freenome-builds-next-generation-of-cancer-detection-technology 
+Google Cloud. (2023, Feb 22). *How Freenome is building the next generation of early cancer detection technology with Google Cloud*. Retrieved August 3, 2024, from https://cloud.google.com/blog/topics/startups/freenome-builds-next-generation-of-cancer-detection-technology 
 
-Market.US. (n.d.). Global Biotechnology Market. Retrieved August 3rd, 2024, from https://market.us/report/biotechnology-market/
+Market.US. (n.d.). *Global Biotechnology Market.* Retrieved August 3rd, 2024, from https://market.us/report/biotechnology-market/
 
-Mount Sinai. (n.d.). Total Protein. Retrieved August 3, 2024, from https://www.mountsinai.org/health-library/tests/total-protein 
+Mount Sinai. (n.d.). *Total Protein*. Retrieved August 3, 2024, from https://www.mountsinai.org/health-library/tests/total-protein 
 
-National Human Genome Research Institute. (2024, August 7). Ribonucleic Acid (RNA). Retrieved August 3, 2024, from https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid 
+National Human Genome Research Institute. (2024, August 7). *Ribonucleic Acid (RNA)*. Retrieved August 3, 2024, from https://www.genome.gov/genetics-glossary/RNA-Ribonucleic-Acid 
 
-Sura, P. (n.d.). What is Multiomics. Retrieved August 3, 2024, from https://www.news-medical.net/life-sciences/What-is-Multiomics.aspx.
+Sura, P. (n.d.). *What is Multiomics?* Retrieved August 3, 2024, from https://www.news-medical.net/life-sciences/What-is-Multiomics.aspx.
 
-Quest Diagnostics. (n.d.). About Us. Retrieved August 3, 2024, from https://www.questdiagnostics.com/our-company/about-us  
+Quest Diagnostics. (n.d.). *About Us*. Retrieved August 3, 2024, from https://www.questdiagnostics.com/our-company/about-us  
 
-Roche (n.d.). About Roche. Retrieved August 3, 2024, from https://www.roche.com/about 
+Roche (n.d.). *About Roche*. Retrieved August 3, 2024, from https://www.roche.com/about 
 
-Terry, M. (2017, December 7). What You Need to know About Freenome. Biospace.  Retrieved August 3, 2024, from https://www.biospace.com/exclusive-what-you-need-to-know-about-freenome/ 
+Terry, M. (2017, December 7). *What You Need to know About Freenome*. Biospace.  Retrieved August 3, 2024, from https://www.biospace.com/exclusive-what-you-need-to-know-about-freenome/ 
 
-Tracxn. (n.d.). Freenome Funding. Retrieved August 5, 2024, from https://tracxn.com/d/companies/freenome/__QnCE7TdOftOC9FKD2-6WRJMdfjXf1zQYXZJDOE3VCBg/funding-and-investors    
+Tracxn. (n.d.). *Freenome Funding*. Retrieved August 5, 2024, from https://tracxn.com/d/companies/freenome/__QnCE7TdOftOC9FKD2-6WRJMdfjXf1zQYXZJDOE3VCBg/funding-and-investors    
 
-World Health Organization (2023, July 11). Colorectal cancer. Cancer. Retrieved August 4, 2024, from https://www.who.int/news-room/fact-sheets/detail/colorectal-cancer 
+World Health Organization (2023, July 11). *Colorectal cancer*. Retrieved August 4, 2024, from https://www.who.int/news-room/fact-sheets/detail/colorectal-cancer 
 
 
 
