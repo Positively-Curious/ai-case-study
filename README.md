@@ -34,7 +34,7 @@ it is currently focused on the study in the early detection, screening and preve
 
 * ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
-The World Health Organization (2023) and American Cancer Society (n.d., Para. 1) reports that colorectal (colon) cancer is the 3rd most common cancer worldwide. The American Cancer Society reports that persons in the USA under 55 are currently more at risk due to lack of preventative screening compared to those over 55 years old, and that incidences of colon cancer are more prevalent in males than females. Accordingly, the size of the market is potentially in the hundreds of millions.
+The World Health Organization (2023) and American Cancer Society (n.d., Para. 1) reports that colorectal (colon) cancer is the 3rd most common cancer worldwide. The American Cancer Society reports that persons in the USA under 55 are currently more at risk due to lack of preventative screening compared to those over 55 years old, and that incidences of colon cancer are more prevalent in males than females. Accordingly, the size of the market is potentially very significant in billions of dollars.
 
 * ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
