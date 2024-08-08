@@ -38,7 +38,7 @@ The World Health Organization (2023) and American Cancer Society (n.d., Para. 1)
 
 * ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Freenome has developed Intangible Assets of innovations and designs known as Intellectual Property which it has legally protected through the consultation of IP Attorneys (Wilson Sonsini, 2024, para. 1). This assurance of Freenome's' IP gave confidence to investors to provide equity funding to Freenome totalling over $1.3 billion to date, to continue its work as a front runner in the study of early detection of colorectal (colon) cancer. This includes strategic funding from companies such as Roche, one of the world's largest Pharmaceutical Company's (Roche, n.d., Para. 1) and Quest Diagnostics, one of the world's leading providers of diagnostic information services (Quest Diagnostics, n.d. Para.1).     
+Freenome has developed Intangible Assets of innovations and designs known as Intellectual Property which it has legally protected through the consultation of IP Attorneys (Wilson Sonsini, 2024, para. 1). This assurance of Freenome's' IP gave confidence to investors to provide equity funding to Freenome totaling over $1.3 billion to date, to continue its work as a front runner in the study of early detection of colorectal (colon) cancer. This includes strategic funding from companies such as Roche, one of the world's largest Pharmaceutical Company's (Roche, n.d., Para. 1) and Quest Diagnostics, one of the world's leading providers of diagnostic information services (Quest Diagnostics, n.d. Para.1).     
 
 * ### Which technologies are they currently using, and how are they implementing them?
 
