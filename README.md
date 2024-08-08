@@ -105,7 +105,7 @@ AI, Big Data, Machine Learning, augmented reality
 
 They leverage the already existing expertise, capabilities, processes, and "trade secrets" the company holds.
 
-## References/Citations
+## Addendum No.1: References/Citations
 
 American Cancer Society (n.d.). Key Statistics for Colorectal Cancer. Cancer. Retrieved August 4, 2024, from https://www.cancer.org/cancer/types/colon-rectal-cancer/about/key-statistics.html
 
