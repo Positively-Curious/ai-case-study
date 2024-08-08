@@ -8,7 +8,7 @@ Freenome Holdings Inc. known as "Freenome". (A privately held startup company in
 
 * ### When was the company incorporated?
 
-May 6, 2016
+Freenome Holdings Inc. had an initial Filing Date of May 9, 2016 with the California Secretary of State for a Stock Corporation - Out of State Stock, formed in the State of Delaware (California Secretary of State, 2016). 
 
 * ### Who are the founders of the company?
 
@@ -110,6 +110,8 @@ They leverage the already existing expertise, capabilities, processes, and "trad
 American Cancer Society (n.d.). *Key Statistics for Colorectal Cancer*. Cancer. Retrieved August 4, 2024, from https://www.cancer.org/cancer/types/colon-rectal-cancer/about/key-statistics.html
 
 Brown, K.V. (2023, May 14). *Are Cancer Blood Tests Worth It*. Bloomberg. Retrieved August 3, 2024, from https://www.bloomberg.com/news/newsletters/2023-05-14/are-early-cancer-detection-tests-like-grail-s-galleri-worth-the-cost 
+
+California Secretary of State (2016, May 9). *Business Search*. Retrieved August 8, 2024, from https://bizfileonline.sos.ca.gov/search/business. 
 
 Chintalapoodi, C. (2023, November 14). *Revolutionizing Industries: An Inside Look at 10 Cutting-Edge Startups and Their IP Trends*. Chip Law Group. Retrieved August 5, 2024, from https://www.chiplawgroup.com/revolutionizing-industries-an-inside-look-at-10-cutting-edge-startups-and-their-ip-trends/ 
 
