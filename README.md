@@ -56,7 +56,7 @@ Gene Editing (editing DNA and RNA to cure genetic diseases), Bioprinting ("3-D" 
 
 * ### What are the other major companies in this field?
 
-Freenome's nearest rivals are "Grail" and "Exact Sciences". "Grail" biotech company is incorporated in the UK and is a public listed company. It looks at detecting multiple cancers and uses a different method to Freenome for a blood-based cancer test. "Exact Sciences" bought out "Thrive" in 2020, a biotechnology company tht also looked at detecting multiple cancers through blood-based cancer tests. Exact Science provides a DNA based approach to colorectal (colon) cancer screening called Cologuard which uses stool-based colorectal (colon) cancer tests rather than blood-based colorectal (colon) cancer tests.
+Freenome's nearest rivals are "Grail" and "Exact Sciences". "Grail" biotech company is incorporated in the UK and is a public listed company. It looks at detecting multiple cancers and uses a different method to Freenome for a blood-based cancer test. "Exact Sciences" bought out "Thrive" in 2020, a biotechnology company that also looked at detecting multiple cancers through blood-based cancer tests. Exact Science provides a DNA based approach to colorectal (colon) cancer screening called Cologuard which uses stool-based colorectal (colon) cancer tests rather than blood-based colorectal (colon) cancer tests.
 
 ## Results
 
