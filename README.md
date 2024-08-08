@@ -1,56 +1,71 @@
-# TITLE
-FREENOME: USING AI FOR EARLY CANCER DETECTION
+# FREENOME: COMBINING BIOLOGY AND TECHNOLOGY FOR EARLY DETECTION OF CANCER
 
 ## Overview and Origin
+
 * Name of company
+
 Freenome Holdings Inc. known as "Freenome".(A privately held startup company in the Research and Development Stage of blood-based cancer tests).
 
 * When was the company incorporated?
+
 May 6, 2016
 
 * Who are the founders of the company?
+
 Co-founders: Gabriel Otte (CEO), Riley Ennis (COO), Charlie Roberts(CPO)
 
 * How did the idea for the company (or project) come about?
+
 The Co-Founders are wanting to solve the problem of detecting, screening and preventing cancer before it can occur in people, after seeing friends and family suffer from diseaseas (Terry, 2017).  
 
 * How is the company funded? How much funding have they received?
+
 Freenome was initially funded by a grant prize and seed capital, followed by 8 stages of Round Financing having received to date a total funding amount of $1.35 billion dollars from private equity investors including life science organizations such as Roche, one of the world's largest pharmaceutical companies, Quest Diagnostics, one of the world's leading provider of diagnotsic information services, tehcnology companies including "Verily", part of Google's parent company Alphabet, who also built a lab for Freenome, and severral high profile investment and private equity firms (Tracxn, n.d. Para. 1)
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
+
 it is currently focused on the study in the early detection, screening and prevention of colorectal (colon) cancer and lung cancer. It's intention is to exand studies in the early detection of multiple cancers (Freenome, n.d., Para. 1).
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
+
 The World Health Organization (2023) and American Cancer Society (n.d., Para. 1) reports that colorectal (colon) cancer is the 3rd most common cancer worldwide and also in the United States. The American Cancer Society reports that persons under 55 are currenty more at risk due to lack of preventative screening compared to those over 55 years old, and that incidences of colon cancer are more prevailant in males than females. Accordingly, the size of the market is potentially in the hundreds of millions.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 Freenome has developed Intangible Assets of innovations and designs known as Intellectual Property which it has legally protected through the consultation of IP Attorneys (Wilson Sonsini, 2024, para. 1). This assurance on Freenomes' IP gave confidence to investors to provide equity funding to Freenome totalling over $1.3 billion to date, to continue its work as a frontrunner in the study of early detection of colarectal (colon) cancer. This includes strategic funding from companies such as Roche, one of the world's largest Pharmaceutical Company's (Roche,n.d., Para. 1) and Quest Diagnostics, one of the world's leading provider of diagnositc information services (Quest Diagnostics, n.d. para.1).     
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Which technologies are they currently using, and how are they implementing them?
+
 Freenome (2024, Para. 1) is using Artificial Intelligence along with machine learning and big data analytics to detect cancer disease assocaited patterns in the blood (Google Cloud,2023). The study focuses on a person's immune reponse to "free floating" cancer cells, and the genetic materials of the immune cells that are left behind in the bloodstream when they die. The technology attempts to identify patterns and program the genetic material of dead immune cells for detection of early signs of colarectal (colon) cancer (Terry, 2017). Freenome applies its AI technology by integrating and overlaying extremely large data sets from the technologies of genomics, proteomics and transcriptomics, to process and interpret data that could lead to predictive diagnositcs for early detection and intervention to prevent the spreading of the colorectal (Colon) cancer. Genomics is the study of DNA which includes the study of genetic variations or mutations of original DNA that can represent a disease in a particular 'genome' group (Surat,n.d.,Para.1), Proteomics is the study of levels of proteins (such as "albumin" and "globulin") in the blood stream and for e,g, a high total protein level could indicate a certain tyoe of cancer (MountSinai, n.d. Para. 1)). Transcriptomics is the study of the quality and quantity of Ribonucleic acid (RNA) levels, which acts as a messenger carrying instructions from DNA to control the combination of proteins in the bloodstream (National Human Genome Research Institute, 2024).          
      
 ## Landscape
 
 * What field is the company in?
+
 Biotechnology
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+
 Gene Editing (editing DNA and RNA to cure genetic diseases), Biopriting ("3-D" functional organs and tissues), Precision Medicine (tailor make medicines to individuals using genetic and molecular profiling), Artifical Intelligence (AI) along with Machine Learning and Big Data analytics, Biomanufacturing (using chromatography, the technique of separation, purification and testing of compounds along with precision fermentation to produce raw materials for productin of biopharmaceuticals), gene and cell therapy.
 
 * What are the other major companies in this field?
+
 Freenome's nearest rivals are "Grail" and "Thrive" who are investing in Research & Development on early detection of multiple cancer types and "Exact Sciences" which provides a DNA based approach to colorectal (colon) cancer screening called Cologuard which uses stool-based tests rather than blood-based colon tests.
 
 ## Results
 
 * What has been the business impact of this company so far?
+
 The Study of validating the clinical performance of a blood-based colorectal screening tests for the early detection of colorectal cancer, involved a broad based study that included 200 study sites across urban and rural communities enrolling more than 40,000 participants across a range of racial, ethnic and socioeconomic backgrounds (Freenome, 2024). Freenome has layed off 20% of its employeess due to the less than expected performance of its study, and adjusting its business strategy to compete in the biotechnology field (Emily, 2024))
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+
 Freenome's First Version study achieved a 79% sensitivity (test's ability to detect the disease as positive) in detecting colorectal cancer (Cancer Stages 1: 57.1%, Stage II: 100%, Stage III: 82.4%, Stage IV: 100%) with 91.5% specificty for non-advancing colorectal neoplasia. The reuslts advance the the early cancer detection progam with the aim towards acheiving mainstream clinical use (Freenome, 2024).
 
 * How is your company performing relative to competitors in the same field?
+
 "Grail" biotech company incorporated in the UK is a public listed company which uses a different method for blood-based cancer test and is already commercially available in the UK and USA. But, in the USA it is not FDA Approved and therefore not covered by insurance. ts also reported that Grail's test will require "more study to show what they do best" (Brown, 2023). Grail began trading on the US NASDAQ stock market on June 25, 2024 at $15 a share and currenlty trading at $17.76 on low volume indicating low interest. The recently less than expected performance of Freenomes First Version Study of its blood-based test largely failed to better on sensitivity (test abiity to detech the disease) compared to "Exact Sciences" stool-based blood tests for colorectal (colon) cancer detection and consequently had a postive impact on Exact Science stock price (Gaitlin, 2024). "Thrive" was bought by "Exact Sciences" in 2020. THerefore, overall, Freenome is not performing as well as Exact Sciences and is behind Grail on achieving mainstream clinical use.
 
 ## Videos
