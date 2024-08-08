@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* ### # Name of company
+* ### Name of company
 
 Freenome Holdings Inc. known as "Freenome".(A privately held startup company in the Research and Development Stage of blood-based cancer tests).
 
