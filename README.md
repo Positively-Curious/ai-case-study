@@ -1,10 +1,10 @@
-# FREENOME: COMBINING BIOLOGY AND TECHNOLOGY FOR EARLY DETECTION OF CANCER
+# FREENOME: COMBINING BIOLOGY AND TECHNOLOGY TO DETECT EARLY SIGNS OF CANCER
 
 ## Overview and Origin
 
 * ### Name of company
 
-Freenome Holdings Inc. known as "Freenome".(A privately held startup company in the Research and Development Stage of blood-based cancer tests).
+Freenome Holdings Inc. known as "Freenome". (A privately held startup company in the Research and Development Stage of blood-based cancer tests).
 
 * ### When was the company incorporated?
 
@@ -12,7 +12,7 @@ May 6, 2016
 
 * ### Who are the founders of the company?
 
-Co-founders: Gabriel Otte (CEO), Riley Ennis (COO), Charlie Roberts(CPO)
+Co-founders: Gabriel Otte (CEO), Riley Ennis (COO), Charlie Roberts(CPO).
 
 * ### How did the idea for the company (or project) come about?
 
@@ -24,7 +24,7 @@ friends and family suffer from diseases (Terry, 2017).
 Freenome was initially funded by a grant prize and seed capital, followed by 8 stages of Round Financing having received to date a total funding 
 amount of $1.35 billion dollars from private equity investors including life science organizations such as Roche, one of the world's largest 
 pharmaceutical companies, Quest Diagnostics, one of the world's leading provider of diagnostic information services, technology companies 
-including "Verily", part of Google's parent company Alphabet, who also built a lab for Freenome, and several high profile investment and private equity firms (Tracxn, n.d. Para. 1)
+including "Verily", part of Google's parent company Alphabet, who also built a lab for Freenome, and several high profile investment and private equity firms (Tracxn, n.d. Para. 1).
 
 ## Business Activities
 
@@ -62,7 +62,7 @@ Freenome's nearest rivals are "Grail" and "Thrive" who are investing in Research
 
 * ### What has been the business impact of this company so far?
 
-The Study of validating the clinical performance of a blood-based colorectal screening tests for the early detection of colorectal cancer, involved a broad based study that included 200 study sites across urban and rural communities enrolling more than 40,000 participants across a range of racial, ethnic and socioeconomic backgrounds (Freenome, 2024). Freenome has layed off 20% of its employees due to the less than expected performance of its study, and adjusting its business strategy to compete in the biotechnology field (Emily, 2024)
+The Study of validating the clinical performance of a blood-based colorectal screening tests for the early detection of colorectal cancer, involved a broad based study that included 200 study sites across urban and rural communities enrolling more than 40,000 participants across a range of racial, ethnic and socioeconomic backgrounds (Freenome, 2024). Freenome has layed off 20% of its employees due to the less than expected performance of its study, and adjusting its business strategy to compete in the biotechnology field (Emily, 2024).
 
 * ### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
